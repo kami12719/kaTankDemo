@@ -1,0 +1,5 @@
+hittedNum:1
+tankName:He,tankX:150,tankY:480,tankDirect:0
+tankName:Ey00,tankX:136,tankY:100,tankDirect:3
+tankName:Ey01,tankX:195,tankY:130,tankDirect:2
+tankName:Ey02,tankX:276,tankY:130,tankDirect:2
